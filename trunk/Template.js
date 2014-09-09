@@ -1,6 +1,6 @@
 //<![CDATA[
 var configSummary = {
-    thumbnailSize: "s180-c", // Define the post thumbnail size
+    thumbnailSize: "s0-c", // Define the post thumbnail size
     summaryLength: 200, // Define the summary length	
   	defaultNavigation:"LoadMore",
 	defaultView:"grid", // Default view Mode
@@ -16,8 +16,8 @@ var Alldefaultconfig = {
 	viewMoreText: "View More About",
 	BackupImage: "http://1.bp.blogspot.com/-htG7vy9vIAA/Tp0KrMUdoWI/AAAAAAAABAU/e7XkFtErqsU/s72-c/grey.gif",
 	summaryLength:100,	
-	FirstImageSize:"s220-p",
-	ImageSize:"s70-p",
+	FirstImageSize:"s0-p",
+	ImageSize:"s0-p",
 	slideshowSpeed:5000,
 	RandomTitle:"Random Posts",
 	RecentTitle:"Recent Posts",
