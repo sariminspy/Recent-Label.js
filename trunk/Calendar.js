@@ -3,7 +3,7 @@ var bcLoadingImage = "http://2.bp.blogspot.com/-yUGWz7Vrm0c/UKtPDwJpdSI/AAAAAAAA
 var bcLoadingMessage = " Loading....";
 var bcArchiveNavText = "View Archive";
 var bcArchiveNavPrev = '<-';
-var bcArchiveNavNext = '->'; 
+var bcArchiveNavNext = '»'; 
 var headDays = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
 var headInitial = ["Su","Mo","Tu","We","Th","Fr","Sa"];
 // Nothing to configure past this point ----------------------------------
