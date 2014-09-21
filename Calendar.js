@@ -2,8 +2,8 @@
 var bcLoadingImage = "http://2.bp.blogspot.com/-yUGWz7Vrm0c/UKtPDwJpdSI/AAAAAAAAICU/9ZAvxQUZJLg/s400/loading-trans.gif.png";
 var bcLoadingMessage = " Loading....";
 var bcArchiveNavText = "View Archive";
-var bcArchiveNavPrev = '?';
-var bcArchiveNavNext = '?';
+var bcArchiveNavPrev = '<-';
+var bcArchiveNavNext = '->'; 
 var headDays = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
 var headInitial = ["Su","Mo","Tu","We","Th","Fr","Sa"];
 // Nothing to configure past this point ----------------------------------
