@@ -1,4 +1,3 @@
-<script type="text/javascript">
 // <![CDATA[
 var bits=80; // how many bits
 var speed=33; // how fast - smaller is faster
@@ -149,4 +148,3 @@ function set_width() {
   shigh=sh_min;
 }
 // ]]>
-</script>
