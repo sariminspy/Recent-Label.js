@@ -1,9 +1,8 @@
 /*
- * Blogger Shortcode Plugin By Mohammad Mustafa Ahmedzai
- * Examples and documentation at: http://www.MyBloggerTricks.com
- * Copyright (c) 2008-2015 STCnetwork.org
- * Version: 1.0 (29-March-2015)
- * Dual licensed under the MIT and GPL licenses.
+ * Blogger Shortcode Plugin By Md. Harun Or Rashid
+ * Examples and documentation at: www.prozokti.com
+ * Copyright (c) 2015 Prozokti.com
+ * Version: 1.0 (01-May-2015)
  * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
  */
 
