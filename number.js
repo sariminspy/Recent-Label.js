@@ -1,4 +1,4 @@
-<script type='text/javascript'>
+
 
 /*==================================================
 $Id: tabber.js,v 1.9 2006/04/27 20:51:51 pat Exp $
@@ -524,4 +524,3 @@ tabberAutomaticOnLoad(tabberOptions);
 
 }
 
-</script>
